@@ -1,0 +1,1 @@
+https://graph.microsoft.com/v1.0/drives/b!5c9kJbwLvUCsJjlsxXvWRnOB5gmZ4wNOkgTzGCCFnXwNumzEUopFQ7FC1qVV8m2A/root/delta?$select=id,name,size,webUrl,createdDateTime,lastModifiedDateTime,createdBy,lastModifiedBy,file,parentReference&token=NDslMjM0OyUyMzE7MztjNDZjYmEwZC04YTUyLTQzNDUtYjE0Mi1kNmE1NTVmMjZkODA7NjM4ODQ2NjY2MTcwMTMwMDAwOzc3NDA2NzIzNTslMjM7JTIzOyUyMzA7JTIz
